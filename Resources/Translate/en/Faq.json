@@ -1,0 +1,67 @@
+{
+    "lang": "en",
+    "pageTitle": "FAQ - Frequently Asked Questions - ScreenXRecorder",
+    "metaDescription": "Frequently asked questions about ScreenXRecorder. Learn how to record your screen, audio, and webcam for free directly in the browser.",
+    "metaOgDescription": "FAQ - ScreenXRecorder: answers to the most common questions about the free online screen recorder.",
+    "metaOgUrl": "https://screenxrecorder.com/en/faq/",
+    "h1": "Frequently Asked Questions",
+    "intro": "<p>Common questions about ScreenXRecorder — the free browser-based screen recorder with no installs, no accounts, and no watermarks.<\/p>",
+    "faqs": [
+        {
+            "question": "What is ScreenXRecorder?",
+            "answer": "<p>ScreenXRecorder is a free screen recorder that runs entirely in your browser. It captures your screen, microphone audio, and webcam without requiring any software installation or account. Everything is processed locally on your device — nothing gets uploaded anywhere.<\/p>"
+        },
+        {
+            "question": "Is ScreenXRecorder completely free?",
+            "answer": "<p>Yes, completely free. No hidden fees, no recording limits, no premium version. It's kept free through advertising.<\/p>"
+        },
+        {
+            "question": "Do I need to create an account or register?",
+            "answer": "<p>No account, no email, no registration of any kind. You open the site and start recording.<\/p>"
+        },
+        {
+            "question": "Do I need to install any software?",
+            "answer": "<p>Nothing to install. ScreenXRecorder uses your browser's built-in WebRTC and MediaRecorder APIs. If your browser is supported, you're good to go.<\/p>"
+        },
+        {
+            "question": "Which browsers are supported?",
+            "answer": "<p>ScreenXRecorder works on <strong>Google Chrome<\/strong>, <strong>Microsoft Edge<\/strong>, <strong>Mozilla Firefox<\/strong>, <strong>Opera<\/strong>, and <strong>Safari<\/strong> (macOS). Chrome and Edge give you the most complete screen capture support, including the option to share system audio on Windows.<\/p>"
+        },
+        {
+            "question": "What can I record?",
+            "answer": "<p>Any combination of:<\/p><ul><li><strong>Screen:<\/strong> Your full monitor, a specific app window, or a single browser tab.<\/li><li><strong>Microphone:<\/strong> With adjustable sensitivity and a mute toggle you can use mid-recording.<\/li><li><strong>Webcam:<\/strong> A Picture-in-Picture overlay you can drag and reposition anywhere on screen, even while recording.<\/li><\/ul>"
+        },
+        {
+            "question": "Are my recordings saved on a server?",
+            "answer": "<p>No. Everything stays on your device. The recording is processed entirely inside your browser and downloaded directly to your computer when you stop. We have no access to your recordings.<\/p>"
+        },
+        {
+            "question": "What format are my recordings saved in?",
+            "answer": "<p>Recordings are saved as <strong>WebM<\/strong> (.webm) files. WebM is a modern open format supported by Chrome, Firefox, VLC, and most media players.<\/p>"
+        },
+        {
+            "question": "Can I record system audio (computer sound)?",
+            "answer": "<p>It depends on your OS and browser. On <strong>Windows<\/strong> with Chrome or Edge, you can capture system audio when choosing what to share. On <strong>macOS<\/strong> and <strong>Linux<\/strong>, the operating system restricts browser access to audio output, so system audio may not be available.<\/p>"
+        },
+        {
+            "question": "Can I pause and resume a recording?",
+            "answer": "<p>Yes. Hit pause whenever you need, resume when you're ready. When you stop, the paused segments are stitched together into a single file automatically.<\/p>"
+        },
+        {
+            "question": "Can I use ScreenXRecorder on a mobile device?",
+            "answer": "<p>Not yet. Screen recording on mobile requires OS-level access that isn't available through browser APIs on iOS or Android. For now, it's desktop only — Windows, macOS and Linux.<\/p>"
+        },
+        {
+            "question": "Which operating systems are supported?",
+            "answer": "<p><strong>Windows<\/strong>, <strong>macOS<\/strong>, and <strong>Linux<\/strong> — any desktop OS with a supported browser. No drivers or additional software needed.<\/p>"
+        },
+        {
+            "question": "Why is there a watermark on my recording?",
+            "answer": "<p>There isn't one. ScreenXRecorder never adds watermarks, logos, or overlays to your recordings. The file you download is exactly what you recorded — nothing added.<\/p>"
+        },
+        {
+            "question": "How do I move the webcam overlay during recording?",
+            "answer": "<p>When the webcam is enabled, a live preview appears on screen. Click and drag it to wherever you want. You can move it at any point during the recording without stopping or pausing.<\/p>"
+        }
+    ]
+}

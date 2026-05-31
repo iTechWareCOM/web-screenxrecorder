@@ -1,0 +1,32 @@
+{
+    "lang": "en",
+    "pageTitle": "Legal Notice - ScreenXRecorder",
+    "metaDescription": "Legal Notice for ScreenXRecorder in compliance with Spanish Law 34\/2002 (LSSI-CE) on Information Society Services.",
+    "metaOgDescription": "Legal Notice - ScreenXRecorder - Ismael Flores \/ iTechWare, Madrid, Spain.",
+    "metaOgUrl": "https://screenxrecorder.com/en/legal/",
+    "h1": "Legal Notice",
+    "lastUpdated": "Last updated: June 2025",
+    "intro": "<p>In compliance with Spanish Law 34\/2002 of July 11 on Information Society Services and Electronic Commerce (LSSI-CE), the following information is provided about the owner of this website.<\/p>",
+    "sections": [
+        {
+            "title": "1. Website Owner",
+            "content": "<p><strong>Name:<\/strong> Ismael Flores<br><strong>Artist Name:<\/strong> iTechWare<br><strong>Location:<\/strong> Madrid, Spain<br><strong>Email:<\/strong> {{CONTACT_EMAIL}}<br><strong>Website:<\/strong> screenxrecorder.com<\/p>"
+        },
+        {
+            "title": "2. Purpose of the Website",
+            "content": "<p>ScreenXRecorder is a free online tool that allows users to record their screen, microphone audio, and webcam video directly in the browser, without installation or registration. It is provided free of charge as a public utility for personal, educational, and professional use.<\/p>"
+        },
+        {
+            "title": "3. Intellectual and Industrial Property",
+            "content": "<p>All content on this website — including but not limited to texts, graphics, logos, icons, images, and source code — is the intellectual property of Ismael Flores \/ iTechWare and is protected by Spanish and international intellectual property laws.<\/p><p>Reproduction, distribution, public communication, or transformation of this content without express written authorization is strictly prohibited.<\/p>"
+        },
+        {
+            "title": "4. Liability Disclaimer",
+            "content": "<p>The owner of this website does not guarantee the absence of errors in the content, nor its continuous availability. The owner shall not be held liable for damages arising from the use of this website or its content.<\/p><p>The presence of links to third-party websites does not imply endorsement of their content or policies. The owner has no control over those external sites.<\/p>"
+        },
+        {
+            "title": "5. Applicable Law and Jurisdiction",
+            "content": "<p>This website and its content are governed by Spanish law. For any disputes arising from the use of this website, the parties submit to the jurisdiction of the courts of Madrid, Spain, waiving any other jurisdiction that may apply.<\/p>"
+        }
+    ]
+}

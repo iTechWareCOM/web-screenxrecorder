@@ -1,0 +1,52 @@
+{
+    "lang": "es",
+    "pageTitle": "Términos y Condiciones - ScreenXRecorder",
+    "metaDescription": "Lee los Términos y Condiciones de uso de ScreenXRecorder, el grabador de pantalla online gratuito sin registro ni marcas de agua.",
+    "metaOgDescription": "Términos y Condiciones - ScreenXRecorder grabador de pantalla online gratuito.",
+    "metaOgUrl": "https://screenxrecorder.com/es/terms/",
+    "h1": "Términos y Condiciones",
+    "lastUpdated": "Última actualización: junio de 2025",
+    "intro": "<p>Bienvenido a ScreenXRecorder. Al acceder o utilizar este servicio, aceptas quedar vinculado por estos Términos y Condiciones. Por favor, léelos detenidamente antes de usar la plataforma.<\/p>",
+    "sections": [
+        {
+            "title": "1. Descripción del servicio",
+            "content": "<p>ScreenXRecorder es una herramienta gratuita de grabación de pantalla basada en el navegador. Permite grabar tu pantalla, audio del micrófono y la cámara web directamente en el navegador, sin necesidad de instalación, registro ni cuenta. Todo el procesamiento ocurre localmente en tu dispositivo — ningún dato de vídeo o audio se envía a nuestros servidores.<\/p>"
+        },
+        {
+            "title": "2. Aceptación de los términos",
+            "content": "<p>Al utilizar ScreenXRecorder aceptas estos Términos en su totalidad. Si no estás de acuerdo con alguna parte, debes dejar de utilizar este servicio.<\/p>"
+        },
+        {
+            "title": "3. Uso permitido",
+            "content": "<p>Aceptas utilizar ScreenXRecorder únicamente para fines lícitos. No debes usar este servicio para:<\/p><ul><li>Grabar contenido sin el consentimiento de todas las partes implicadas.<\/li><li>Crear, almacenar o distribuir contenido ilegal, difamatorio o dañino.<\/li><li>Eludir, deshabilitar o interferir con las funciones de seguridad del servicio.<\/li><\/ul><p>El servicio está destinado a uso personal, educativo y profesional: creación de tutoriales, grabación de presentaciones o captura de videollamadas con el consentimiento adecuado.<\/p>"
+        },
+        {
+            "title": "4. Propiedad intelectual",
+            "content": "<p>Todo el contenido original, diseño, código fuente y marca de ScreenXRecorder son propiedad intelectual de Ismael Flores \/ iTechWare. No puedes reproducir, distribuir ni crear obras derivadas sin autorización escrita previa.<\/p><p>Las grabaciones que realices con esta herramienta son completamente tuyas — no reclamamos ningún derecho sobre el contenido generado por el usuario.<\/p>"
+        },
+        {
+            "title": "5. Privacidad y servicios de terceros",
+            "content": "<p>ScreenXRecorder no almacena ni transmite tus grabaciones. Sin embargo, este sitio web utiliza Google Analytics y Google AdSense, que pueden recopilar datos de uso y publicidad anonimizados. Para más detalles, consulta nuestra <a href='..\/privacy\/'>Política de Privacidad<\/a> y nuestra <a href='..\/cookies-policy\/'>Política de Cookies<\/a>.<\/p>"
+        },
+        {
+            "title": "6. Exclusión de garantías",
+            "content": "<p>ScreenXRecorder se proporciona \"tal cual\" sin garantías de ningún tipo. No garantizamos acceso ininterrumpido, compatibilidad con todos los navegadores o dispositivos, ni que el servicio esté libre de errores.<\/p>"
+        },
+        {
+            "title": "7. Limitación de responsabilidad",
+            "content": "<p>En la máxima medida permitida por la ley aplicable, Ismael Flores \/ iTechWare no será responsable de ningún daño indirecto, incidental, especial, consecuente o punitivo derivado del uso de, o la imposibilidad de usar, ScreenXRecorder.<\/p>"
+        },
+        {
+            "title": "8. Modificaciones",
+            "content": "<p>Nos reservamos el derecho de modificar estos Términos en cualquier momento. Los cambios se publicarán en esta página con la fecha actualizada. El uso continuado del servicio tras los cambios implica la aceptación de los Términos revisados.<\/p>"
+        },
+        {
+            "title": "9. Ley aplicable",
+            "content": "<p>Estos Términos se rigen e interpretan de acuerdo con la legislación española. Cualquier controversia estará sujeta a la jurisdicción exclusiva de los tribunales de Madrid, España.<\/p>"
+        },
+        {
+            "title": "10. Contacto",
+            "content": "<p>Para cualquier pregunta sobre estos Términos, contáctanos en: {{CONTACT_EMAIL}}<\/p>"
+        }
+    ]
+}

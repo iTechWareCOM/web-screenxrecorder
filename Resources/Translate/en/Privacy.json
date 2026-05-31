@@ -1,0 +1,52 @@
+{
+    "lang": "en",
+    "pageTitle": "Privacy Policy - ScreenXRecorder",
+    "metaDescription": "Learn how ScreenXRecorder handles your data. We do not store recordings. All processing is done locally in your browser.",
+    "metaOgDescription": "Privacy Policy - ScreenXRecorder does not store your recordings. Learn how we use Google Analytics and AdSense.",
+    "metaOgUrl": "https://screenxrecorder.com/en/privacy/",
+    "h1": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2025",
+    "intro": "<p>At ScreenXRecorder, your privacy is important to us. This Privacy Policy explains what data we collect, how we use it, and your rights under the EU General Data Protection Regulation (GDPR).</p>",
+    "sections": [
+        {
+            "title": "1. Data Controller",
+            "content": "<p><strong>Responsible entity:<\/strong> Ismael Flores \/ iTechWare<br><strong>Location:<\/strong> Madrid, Spain<br><strong>Website:<\/strong> screenxrecorder.com<br><strong>Contact:<\/strong> {{CONTACT_EMAIL}}<\/p>"
+        },
+        {
+            "title": "2. Data We Do NOT Collect",
+            "content": "<p>ScreenXRecorder does not collect, store, or transmit any screen recordings, audio, or webcam footage. All recording and processing occurs entirely within your browser using the WebRTC and MediaRecorder APIs. No video or audio data ever leaves your device.<\/p>"
+        },
+        {
+            "title": "3. Data We Do Collect",
+            "content": "<p>We collect the following data through third-party services:<\/p><ul><li><strong>Google Analytics (UA-57403439-5):<\/strong> Anonymized usage statistics such as pages visited, session duration, browser type, and approximate geographic location. This data helps us improve the service.<\/li><li><strong>Google AdSense:<\/strong> Advertising cookies to display relevant ads. Google may use browsing data to personalize advertisements shown on this site.<\/li><li><strong>Contact Form:<\/strong> If you submit the contact form, we collect your name, email address, and message solely to respond to your inquiry. This data is not stored in any database.<\/li><\/ul>"
+        },
+        {
+            "title": "4. Legal Basis (GDPR)",
+            "content": "<p>Under EU Regulation 2016\/679 (GDPR), the legal basis for processing your data is:<\/p><ul><li><strong>Legitimate interest:<\/strong> Analytics data (Google Analytics) used to improve the service.<\/li><li><strong>Consent:<\/strong> Advertising cookies (Google AdSense).<\/li><li><strong>Contract performance:<\/strong> Contact form data, to respond to your request.<\/li><\/ul>"
+        },
+        {
+            "title": "5. Data Retention",
+            "content": "<p>Contact form submissions are sent directly to our email and not retained in any database. Analytics and advertising data is retained by Google according to their own policies. You can review and manage Google's data retention settings via your Google Account.<\/p>"
+        },
+        {
+            "title": "6. International Data Transfers",
+            "content": "<p>Google Analytics and AdSense may transfer data outside the European Economic Area. These transfers are covered by Standard Contractual Clauses approved by the European Commission, ensuring an adequate level of data protection.<\/p>"
+        },
+        {
+            "title": "7. Your Rights",
+            "content": "<p>Under the GDPR, you have the following rights:<\/p><ul><li><strong>Right of access:<\/strong> Request a copy of any personal data we hold about you.<\/li><li><strong>Right to rectification:<\/strong> Request correction of inaccurate data.<\/li><li><strong>Right to erasure:<\/strong> Request deletion of your data.<\/li><li><strong>Right to restrict processing:<\/strong> Request that we limit how we process your data.<\/li><li><strong>Right to data portability:<\/strong> Request your data in a portable format.<\/li><li><strong>Right to object:<\/strong> Object to processing based on legitimate interests.<\/li><\/ul><p>To exercise any of these rights, contact us at: {{CONTACT_EMAIL}}<\/p>"
+        },
+        {
+            "title": "8. Cookies",
+            "content": "<p>This website uses cookies for analytics and advertising purposes. For full details on the cookies we use and how to manage them, please read our <a href='..\/cookies-policy\/'>Cookies Policy<\/a>.<\/p>"
+        },
+        {
+            "title": "9. Changes to This Policy",
+            "content": "<p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date. Continued use of the service after changes constitutes acceptance of the revised policy.<\/p>"
+        },
+        {
+            "title": "10. Contact and Complaints",
+            "content": "<p>For privacy-related questions or to exercise your rights, contact us at: {{CONTACT_EMAIL}}<br>You also have the right to lodge a complaint with the Spanish Data Protection Authority (AEPD): <a href='https:\/\/www.aepd.es' target='_blank'>www.aepd.es<\/a><\/p>"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "lang": "es",
+    "pageTitle": "Política de Cookies - ScreenXRecorder",
+    "metaDescription": "Información sobre las cookies utilizadas por ScreenXRecorder, incluyendo Google Analytics y Google AdSense, y cómo gestionarlas.",
+    "metaOgDescription": "Política de Cookies - ScreenXRecorder: qué cookies usamos y cómo controlarlas.",
+    "metaOgUrl": "https://screenxrecorder.com/es/cookies-policy/",
+    "h1": "Política de Cookies",
+    "lastUpdated": "Última actualización: junio de 2025",
+    "intro": "<p>Esta Política de Cookies explica qué son las cookies, cuáles utiliza ScreenXRecorder y cómo puedes controlarlas. Al continuar usando este sitio web, consientes el uso de cookies tal como se describe a continuación.<\/p>",
+    "sections": [
+        {
+            "title": "1. ¿Qué son las cookies?",
+            "content": "<p>Las cookies son pequeños archivos de texto que los sitios web colocan en tu dispositivo. Se utilizan ampliamente para que los sitios web funcionen correctamente, mejorar la experiencia del usuario y proporcionar información a los propietarios del sitio. Las cookies no acceden a tu dispositivo ni ejecutan programas.<\/p>"
+        },
+        {
+            "title": "2. Tipos de cookies que utilizamos",
+            "content": "<p>ScreenXRecorder utiliza los siguientes tipos de cookies:<\/p><ul><li><strong>Cookies analíticas \/ de rendimiento:<\/strong> Recopilan información anónima sobre cómo los visitantes usan el sitio web (páginas visitadas, duración de sesión, tipo de navegador). Usamos Google Analytics para este fin.<\/li><li><strong>Cookies publicitarias:<\/strong> Usadas por Google AdSense para mostrar anuncios relevantes según tus intereses y historial de navegación.<\/li><li><strong>Almacenamiento local funcional:<\/strong> Usamos el localStorage del navegador para guardar tus preferencias de tema (claro\/oscuro) e idioma. Estos datos se almacenan íntegramente en tu dispositivo y nunca se transmiten.<\/li><\/ul>"
+        },
+        {
+            "title": "3. Cookies de Google Analytics",
+            "content": "<p>Usamos Google Analytics (ID de seguimiento: UA-57403439-5) para recopilar estadísticas anonimizadas del tráfico web. Google Analytics establece las siguientes cookies:<\/p><ul><li><strong>_ga:<\/strong> Identifica usuarios únicos. Caduca a los 2 años.<\/li><li><strong>_gid:<\/strong> Identifica usuarios únicos. Caduca a las 24 horas.<\/li><li><strong>_gat:<\/strong> Limita la tasa de solicitudes. Caduca al minuto.<\/li><\/ul><p>Todos los datos son anonimizados. Puedes optar por no ser rastreado instalando el <a href='https:\/\/tools.google.com\/dlpage\/gaoptout' target='_blank'>complemento de inhabilitación de Google Analytics<\/a>.<\/p>"
+        },
+        {
+            "title": "4. Cookies de Google AdSense",
+            "content": "<p>Usamos Google AdSense para mostrar publicidad. Google AdSense puede usar cookies y balizas web para servir anuncios basados en tus visitas anteriores a este y otros sitios web. Puedes rechazar la publicidad personalizada visitando <a href='https:\/\/www.google.com\/settings\/ads' target='_blank'>Configuración de anuncios de Google<\/a> o <a href='https:\/\/www.aboutads.info\/choices\/' target='_blank'>www.aboutads.info<\/a>.<\/p>"
+        },
+        {
+            "title": "5. Cómo controlar y eliminar cookies",
+            "content": "<p>Puedes controlar y gestionar las cookies desde la configuración de tu navegador. La mayoría de los navegadores te permiten:<\/p><ul><li>Ver qué cookies están instaladas en tu dispositivo.<\/li><li>Eliminar todas o algunas cookies.<\/li><li>Bloquear cookies de sitios específicos o de todos los sitios.<\/li><li>Establecer preferencias para determinados sitios web.<\/li><\/ul><p>Ten en cuenta que bloquear todas las cookies puede afectar al funcionamiento de algunas partes de este sitio. Para más información sobre cómo gestionar cookies en tu navegador, visita <a href='https:\/\/www.aboutcookies.org' target='_blank'>www.aboutcookies.org<\/a>.<\/p>"
+        },
+        {
+            "title": "6. Cambios en esta política",
+            "content": "<p>Podemos actualizar esta Política de Cookies periódicamente. Los cambios se reflejarán en esta página con la fecha actualizada. El uso continuado de este sitio web después de los cambios implica la aceptación de la política revisada.<\/p>"
+        },
+        {
+            "title": "7. Contacto",
+            "content": "<p>Para cualquier pregunta sobre el uso de cookies, contáctanos en: {{CONTACT_EMAIL}}<\/p>"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "lang": "en",
+    "pageTitle": "Terms & Conditions - ScreenXRecorder",
+    "metaDescription": "Read the Terms and Conditions for using ScreenXRecorder, the free online screen recorder with no registration or watermarks.",
+    "metaOgDescription": "Terms and Conditions - ScreenXRecorder free online screen recorder.",
+    "metaOgUrl": "https://screenxrecorder.com/en/terms/",
+    "h1": "Terms & Conditions",
+    "lastUpdated": "Last updated: June 2025",
+    "intro": "<p>Welcome to ScreenXRecorder. By accessing or using this service, you agree to be bound by these Terms and Conditions. Please read them carefully.</p>",
+    "sections": [
+        {
+            "title": "1. Service Description",
+            "content": "<p>ScreenXRecorder is a free, browser-based screen recording tool. It allows you to record your screen, microphone audio, and webcam directly in the browser — no installation, no registration, no account required. All recording and processing happens locally on your device. No video or audio data is ever sent to our servers.</p>"
+        },
+        {
+            "title": "2. Acceptance of Terms",
+            "content": "<p>By using ScreenXRecorder you accept these Terms in full. If you disagree with any part of these Terms, you must discontinue use of this service.</p>"
+        },
+        {
+            "title": "3. Permitted Use",
+            "content": "<p>You agree to use ScreenXRecorder only for lawful purposes. You must not use this service to:</p><ul><li>Record content without the consent of all parties involved.</li><li>Create, store, or distribute illegal, defamatory, or harmful content.</li><li>Circumvent, disable, or interfere with security features of the service.</li></ul><p>The service is intended for personal, educational, and professional use such as creating tutorials, recording presentations, or capturing video calls with appropriate consent.</p>"
+        },
+        {
+            "title": "4. Intellectual Property",
+            "content": "<p>All original content, design, source code, and branding of ScreenXRecorder are the intellectual property of Ismael Flores \/ iTechWare. You may not reproduce, distribute, or create derivative works without prior written permission.</p><p>Recordings you create using this tool are entirely yours — we make no claim over user-generated content.</p>"
+        },
+        {
+            "title": "5. Privacy and Third-Party Services",
+            "content": "<p>ScreenXRecorder does not store or transmit your recordings. However, this website uses Google Analytics and Google AdSense, which may collect anonymized usage and advertising data. For full details, please read our <a href='..\/privacy\/'>Privacy Policy<\/a> and <a href='..\/cookies-policy\/'>Cookies Policy<\/a>.</p>"
+        },
+        {
+            "title": "6. Disclaimer of Warranties",
+            "content": "<p>ScreenXRecorder is provided \"as is\" without warranties of any kind, express or implied. We do not guarantee uninterrupted access, compatibility with all browsers or devices, or that the service will be free from errors or interruptions.</p>"
+        },
+        {
+            "title": "7. Limitation of Liability",
+            "content": "<p>To the maximum extent permitted by applicable law, Ismael Flores \/ iTechWare shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from the use of, or inability to use, ScreenXRecorder.</p>"
+        },
+        {
+            "title": "8. Changes to Terms",
+            "content": "<p>We reserve the right to modify these Terms at any time. Changes will be posted on this page with an updated date. Continued use of the service after changes constitutes acceptance of the revised Terms.</p>"
+        },
+        {
+            "title": "9. Governing Law",
+            "content": "<p>These Terms are governed by and construed in accordance with the laws of Spain. Any disputes arising shall be subject to the exclusive jurisdiction of the courts of Spain.</p>"
+        },
+        {
+            "title": "10. Contact",
+            "content": "<p>For any questions regarding these Terms, please contact us at: {{CONTACT_EMAIL}}<\/p>"
+        }
+    ]
+}

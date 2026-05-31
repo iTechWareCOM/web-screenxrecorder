@@ -1,0 +1,52 @@
+{
+    "lang": "es",
+    "pageTitle": "Política de Privacidad - ScreenXRecorder",
+    "metaDescription": "Conoce cómo ScreenXRecorder gestiona tus datos. No almacenamos grabaciones. Todo el procesamiento se realiza localmente en tu navegador.",
+    "metaOgDescription": "Política de Privacidad - ScreenXRecorder no almacena tus grabaciones. Información sobre Google Analytics y AdSense.",
+    "metaOgUrl": "https://screenxrecorder.com/es/privacy/",
+    "h1": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2025",
+    "intro": "<p>En ScreenXRecorder, tu privacidad es importante para nosotros. Esta Política de Privacidad explica qué datos recopilamos, cómo los utilizamos y cuáles son tus derechos según el Reglamento General de Protección de Datos de la UE (RGPD).<\/p>",
+    "sections": [
+        {
+            "title": "1. Responsable del tratamiento",
+            "content": "<p><strong>Responsable:<\/strong> Ismael Flores \/ iTechWare<br><strong>Ubicación:<\/strong> Madrid, España<br><strong>Sitio web:<\/strong> screenxrecorder.com<br><strong>Contacto:<\/strong> {{CONTACT_EMAIL}}<\/p>"
+        },
+        {
+            "title": "2. Datos que NO recopilamos",
+            "content": "<p>ScreenXRecorder no recopila, almacena ni transmite grabaciones de pantalla, audio ni vídeo de la cámara web. Todo el procesamiento ocurre íntegramente dentro de tu navegador mediante las APIs WebRTC y MediaRecorder. Ningún dato de vídeo o audio abandona jamás tu dispositivo.<\/p>"
+        },
+        {
+            "title": "3. Datos que sí recopilamos",
+            "content": "<p>Recopilamos los siguientes datos a través de servicios de terceros:<\/p><ul><li><strong>Google Analytics (UA-57403439-5):<\/strong> Estadísticas de uso anonimizadas: páginas visitadas, duración de sesión, tipo de navegador y ubicación geográfica aproximada. Estos datos nos ayudan a mejorar el servicio.<\/li><li><strong>Google AdSense:<\/strong> Cookies publicitarias para mostrar anuncios relevantes. Google puede usar datos de navegación para personalizar los anuncios mostrados.<\/li><li><strong>Formulario de contacto:<\/strong> Si envías el formulario de contacto, recopilamos tu nombre, correo electrónico y mensaje únicamente para responder a tu consulta. Estos datos no se almacenan en ninguna base de datos.<\/li><\/ul>"
+        },
+        {
+            "title": "4. Base legal (RGPD)",
+            "content": "<p>Conforme al Reglamento (UE) 2016\/679 (RGPD), la base legal para el tratamiento de tus datos es:<\/p><ul><li><strong>Interés legítimo:<\/strong> Datos analíticos (Google Analytics) para mejorar el servicio.<\/li><li><strong>Consentimiento:<\/strong> Cookies publicitarias (Google AdSense).<\/li><li><strong>Ejecución de un contrato:<\/strong> Datos del formulario de contacto, para responder a tu solicitud.<\/li><\/ul>"
+        },
+        {
+            "title": "5. Conservación de datos",
+            "content": "<p>Los envíos del formulario de contacto se remiten directamente a nuestro correo electrónico y no se conservan en ninguna base de datos. Los datos analíticos y publicitarios son conservados por Google según sus propias políticas. Puedes revisar y gestionar la configuración de retención de datos de Google desde tu cuenta de Google.<\/p>"
+        },
+        {
+            "title": "6. Transferencias internacionales",
+            "content": "<p>Google Analytics y AdSense pueden transferir datos fuera del Espacio Económico Europeo. Estas transferencias están cubiertas por Cláusulas Contractuales Tipo aprobadas por la Comisión Europea, garantizando un nivel de protección adecuado.<\/p>"
+        },
+        {
+            "title": "7. Tus derechos",
+            "content": "<p>Conforme al RGPD, tienes los siguientes derechos sobre tus datos personales:<\/p><ul><li><strong>Derecho de acceso:<\/strong> Solicitar una copia de los datos personales que tengamos sobre ti.<\/li><li><strong>Derecho de rectificación:<\/strong> Solicitar la corrección de datos inexactos.<\/li><li><strong>Derecho de supresión:<\/strong> Solicitar la eliminación de tus datos.<\/li><li><strong>Derecho a la limitación del tratamiento:<\/strong> Solicitar que limitemos el procesamiento de tus datos.<\/li><li><strong>Derecho a la portabilidad:<\/strong> Solicitar tus datos en un formato portable.<\/li><li><strong>Derecho de oposición:<\/strong> Oponerte al tratamiento basado en interés legítimo.<\/li><\/ul><p>Para ejercer cualquiera de estos derechos, contáctanos en: {{CONTACT_EMAIL}}<\/p>"
+        },
+        {
+            "title": "8. Cookies",
+            "content": "<p>Este sitio web utiliza cookies con fines analíticos y publicitarios. Para información completa sobre las cookies que utilizamos y cómo gestionarlas, consulta nuestra <a href='..\/cookies-policy\/'>Política de Cookies<\/a>.<\/p>"
+        },
+        {
+            "title": "9. Modificaciones",
+            "content": "<p>Podemos actualizar esta Política de Privacidad periódicamente. Los cambios se publicarán en esta página con la fecha actualizada. El uso continuado del servicio implica la aceptación de la política revisada.<\/p>"
+        },
+        {
+            "title": "10. Contacto y reclamaciones",
+            "content": "<p>Para consultas sobre privacidad o para ejercer tus derechos, contáctanos en: {{CONTACT_EMAIL}}<br>También tienes derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD): <a href='https:\/\/www.aepd.es' target='_blank'>www.aepd.es<\/a><\/p>"
+        }
+    ]
+}

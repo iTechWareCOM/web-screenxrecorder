@@ -1,0 +1,247 @@
+[
+    {
+        "lang": "af",
+        "nameLang": "Afrikaans",
+        "url": "af\/"
+    },
+    {
+        "lang": "am",
+        "nameLang": "አማርኛ",
+        "url": "am\/"
+    },
+    {
+        "lang": "ar",
+        "nameLang": "العربية",
+        "url": "ar\/"
+    },
+    {
+        "lang": "az",
+        "nameLang": "Azərbaycan dili",
+        "url": "az\/"
+    },
+    {
+        "lang": "bn",
+        "nameLang": "বাংলা",
+        "url": "bn\/"
+    },
+    {
+        "lang": "cs",
+        "nameLang": "Čeština",
+        "url": "cs\/"
+    },
+    {
+        "lang": "da",
+        "nameLang": "Dansk",
+        "url": "da\/"
+    },
+    {
+        "lang": "de",
+        "nameLang": "Deutsch",
+        "url": "de\/"
+    },
+    {
+        "lang": "el",
+        "nameLang": "Ελληνικά",
+        "url": "el\/"
+    },
+    {
+        "lang": "en",
+        "nameLang": "English",
+        "url": "en\/"
+    },
+    {
+        "lang": "es",
+        "nameLang": "Español",
+        "url": "es\/"
+    },
+    {
+        "lang": "fa",
+        "nameLang": "فارسی",
+        "url": "fa\/"
+    },
+    {
+        "lang": "fi",
+        "nameLang": "Suomi",
+        "url": "fi\/"
+    },
+    {
+        "lang": "fr",
+        "nameLang": "Français",
+        "url": "fr\/"
+    },
+    {
+        "lang": "gu",
+        "nameLang": "ગુજરાતી",
+        "url": "gu\/"
+    },
+    {
+        "lang": "ha",
+        "nameLang": "Hausa",
+        "url": "ha\/"
+    },
+    {
+        "lang": "hi",
+        "nameLang": "हिंदी",
+        "url": "hi\/"
+    },
+    {
+        "lang": "hu",
+        "nameLang": "Magyar",
+        "url": "hu\/"
+    },
+    {
+        "lang": "id",
+        "nameLang": "Bahasa Indonesia",
+        "url": "id\/"
+    },
+    {
+        "lang": "ig",
+        "nameLang": "Gburugburu",
+        "url": "ig\/"
+    },
+    {
+        "lang": "it",
+        "nameLang": "Italiano",
+        "url": "it\/"
+    },
+    {
+        "lang": "ja",
+        "nameLang": "日本語",
+        "url": "ja\/"
+    },
+    {
+        "lang": "km",
+        "nameLang": "ភាសាខ្មែរ",
+        "url": "km\/"
+    },
+    {
+        "lang": "kn",
+        "nameLang": "ಕನ್ನಡ",
+        "url": "kn\/"
+    },
+    {
+        "lang": "ko",
+        "nameLang": "한국어",
+        "url": "ko\/"
+    },
+    {
+        "lang": "ku",
+        "nameLang": "Kurdî",
+        "url": "ku\/"
+    },
+    {
+        "lang": "ml",
+        "nameLang": "മലയാളം",
+        "url": "ml\/"
+    },
+    {
+        "lang": "mr",
+        "nameLang": "मराठी",
+        "url": "mr\/"
+    },
+    {
+        "lang": "ms",
+        "nameLang": "Bahasa Melayu",
+        "url": "ms\/"
+    },
+    {
+        "lang": "ne",
+        "nameLang": "नेपाली",
+        "url": "ne\/"
+    },
+    {
+        "lang": "nl",
+        "nameLang": "Nederlands",
+        "url": "nl\/"
+    },
+    {
+        "lang": "pa",
+        "nameLang": "ਪੰਜਾਬੀ",
+        "url": "pa\/"
+    },
+    {
+        "lang": "pl",
+        "nameLang": "Polski",
+        "url": "pl\/"
+    },
+    {
+        "lang": "pt",
+        "nameLang": "Português",
+        "url": "pt\/"
+    },
+    {
+        "lang": "ro",
+        "nameLang": "Română",
+        "url": "ro\/"
+    },
+    {
+        "lang": "ru",
+        "nameLang": "Русский",
+        "url": "ru\/"
+    },
+    {
+        "lang": "si",
+        "nameLang": "සිංහල",
+        "url": "si\/"
+    },
+    {
+        "lang": "su",
+        "nameLang": "Basa Sunda",
+        "url": "su\/"
+    },
+    {
+        "lang": "sv",
+        "nameLang": "Svenska",
+        "url": "sv\/"
+    },
+    {
+        "lang": "sw",
+        "nameLang": "Kiswahili",
+        "url": "sw\/"
+    },
+    {
+        "lang": "ta",
+        "nameLang": "தமிழ்",
+        "url": "ta\/"
+    },
+    {
+        "lang": "te",
+        "nameLang": "తెలుగు",
+        "url": "te\/"
+    },
+    {
+        "lang": "th",
+        "nameLang": "ภาษาไทย",
+        "url": "th\/"
+    },
+    {
+        "lang": "tr",
+        "nameLang": "Türkçe",
+        "url": "tr\/"
+    },
+    {
+        "lang": "uk",
+        "nameLang": "Українська",
+        "url": "uk\/"
+    },
+    {
+        "lang": "ur",
+        "nameLang": "اردو",
+        "url": "ur\/"
+    },
+    {
+        "lang": "vi",
+        "nameLang": "Tiếng Việt",
+        "url": "vi\/"
+    },
+    {
+        "lang": "zh",
+        "nameLang": "简体中文",
+        "url": "zh\/"
+    },
+    {
+        "lang": "zu",
+        "nameLang": "IsiZulu",
+        "url": "zu\/"
+    }
+]

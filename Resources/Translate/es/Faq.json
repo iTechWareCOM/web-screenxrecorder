@@ -1,0 +1,67 @@
+{
+    "lang": "es",
+    "pageTitle": "FAQ - Preguntas Frecuentes - ScreenXRecorder",
+    "metaDescription": "Preguntas frecuentes sobre ScreenXRecorder. Aprende a grabar tu pantalla, audio y cámara web gratis directamente en el navegador.",
+    "metaOgDescription": "FAQ - ScreenXRecorder: respuestas a las preguntas más comunes sobre el grabador de pantalla online gratuito.",
+    "metaOgUrl": "https://screenxrecorder.com/es/faq/",
+    "h1": "Preguntas Frecuentes",
+    "intro": "<p>Las dudas más habituales sobre ScreenXRecorder — el grabador de pantalla gratuito que funciona en el navegador, sin instalar nada, sin registrarse y sin marcas de agua.<\/p>",
+    "faqs": [
+        {
+            "question": "¿Qué es ScreenXRecorder?",
+            "answer": "<p>ScreenXRecorder es un grabador de pantalla gratuito que funciona íntegramente en el navegador. Captura la pantalla, el audio del micrófono y la cámara web sin necesidad de instalar ningún programa ni crear una cuenta. Todo se procesa localmente en tu dispositivo — nada se sube a ningún servidor.<\/p>"
+        },
+        {
+            "question": "¿Es completamente gratuito?",
+            "answer": "<p>Sí, completamente gratis. Sin tarifas ocultas, sin límites de grabación y sin versión de pago. Se mantiene gratuito gracias a la publicidad.<\/p>"
+        },
+        {
+            "question": "¿Necesito crear una cuenta o registrarme?",
+            "answer": "<p>No. Sin cuenta, sin correo electrónico, sin ningún tipo de registro. Entras al sitio y empiezas a grabar.<\/p>"
+        },
+        {
+            "question": "¿Necesito instalar algún programa?",
+            "answer": "<p>Nada que instalar. ScreenXRecorder usa las APIs nativas del navegador (WebRTC y MediaRecorder). Si tu navegador es compatible, puedes empezar ahora mismo.<\/p>"
+        },
+        {
+            "question": "¿Qué navegadores son compatibles?",
+            "answer": "<p>ScreenXRecorder funciona en <strong>Google Chrome<\/strong>, <strong>Microsoft Edge<\/strong>, <strong>Mozilla Firefox<\/strong>, <strong>Opera<\/strong> y <strong>Safari<\/strong> (macOS). Chrome y Edge ofrecen el soporte más completo para captura de pantalla, incluyendo la opción de capturar el audio del sistema en Windows.<\/p>"
+        },
+        {
+            "question": "¿Qué puedo grabar?",
+            "answer": "<p>Cualquier combinación de:<\/p><ul><li><strong>Pantalla:<\/strong> Todo el monitor, una ventana concreta o una sola pestaña del navegador.<\/li><li><strong>Micrófono:<\/strong> Con sensibilidad ajustable y botón de silencio que puedes usar durante la grabación.<\/li><li><strong>Cámara web:<\/strong> Una superposición Picture-in-Picture que puedes arrastrar y colocar en cualquier parte de la pantalla, incluso mientras grabas.<\/li><\/ul>"
+        },
+        {
+            "question": "¿Mis grabaciones se guardan en un servidor?",
+            "answer": "<p>No. Todo queda en tu dispositivo. La grabación se procesa dentro del navegador y se descarga directamente a tu ordenador cuando paras. No tenemos acceso a tus grabaciones.<\/p>"
+        },
+        {
+            "question": "¿En qué formato se guardan las grabaciones?",
+            "answer": "<p>Las grabaciones se guardan como archivos <strong>WebM<\/strong> (.webm), un formato abierto y moderno compatible con Chrome, Firefox, VLC y la mayoría de reproductores.<\/p>"
+        },
+        {
+            "question": "¿Puedo grabar el audio del sistema (el sonido del ordenador)?",
+            "answer": "<p>Depende del sistema operativo y el navegador. En <strong>Windows<\/strong> con Chrome o Edge, puedes capturar el audio del sistema al elegir qué compartir. En <strong>macOS<\/strong> y <strong>Linux<\/strong>, el sistema operativo restringe el acceso del navegador a la salida de audio, por lo que puede no estar disponible.<\/p>"
+        },
+        {
+            "question": "¿Puedo pausar y reanudar una grabación?",
+            "answer": "<p>Sí. Pausa cuando necesites y reanuda cuando estés listo. Al detener la grabación, los segmentos se unen automáticamente en un único archivo.<\/p>"
+        },
+        {
+            "question": "¿Puedo usar ScreenXRecorder en el móvil?",
+            "answer": "<p>Todavía no. La grabación de pantalla en móvil requiere acceso a nivel del sistema operativo que las APIs del navegador en iOS y Android aún no permiten. Por ahora es solo para escritorio: Windows, macOS y Linux.<\/p>"
+        },
+        {
+            "question": "¿Qué sistemas operativos son compatibles?",
+            "answer": "<p><strong>Windows<\/strong>, <strong>macOS<\/strong> y <strong>Linux<\/strong> — cualquier sistema de escritorio con un navegador compatible. Sin controladores ni software adicional.<\/p>"
+        },
+        {
+            "question": "¿Por qué aparece una marca de agua en mi grabación?",
+            "answer": "<p>No aparece ninguna. ScreenXRecorder nunca añade marcas de agua, logos ni superposiciones a tus grabaciones. El archivo que descargas es exactamente lo que grabaste, sin nada añadido.<\/p>"
+        },
+        {
+            "question": "¿Cómo muevo la cámara durante la grabación?",
+            "answer": "<p>Cuando la cámara está activada, aparece una vista previa en pantalla. Haz clic y arrástrala adonde quieras. Puedes moverla en cualquier momento sin parar ni pausar la grabación.<\/p>"
+        }
+    ]
+}

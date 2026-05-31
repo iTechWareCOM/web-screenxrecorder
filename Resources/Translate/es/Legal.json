@@ -1,0 +1,32 @@
+{
+    "lang": "es",
+    "pageTitle": "Aviso Legal - ScreenXRecorder",
+    "metaDescription": "Aviso Legal de ScreenXRecorder en cumplimiento de la Ley 34\/2002 (LSSI-CE) de Servicios de la Sociedad de la Información.",
+    "metaOgDescription": "Aviso Legal - ScreenXRecorder - Ismael Flores \/ iTechWare, Madrid, España.",
+    "metaOgUrl": "https://screenxrecorder.com/es/legal/",
+    "h1": "Aviso Legal",
+    "lastUpdated": "Última actualización: junio de 2025",
+    "intro": "<p>En cumplimiento de la Ley 34\/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se facilita la siguiente información sobre el titular de este sitio web.<\/p>",
+    "sections": [
+        {
+            "title": "1. Datos identificativos del titular",
+            "content": "<p><strong>Nombre:<\/strong> Ismael Flores<br><strong>Nombre artístico:<\/strong> iTechWare<br><strong>Ubicación:<\/strong> Madrid, España<br><strong>Correo electrónico:<\/strong> {{CONTACT_EMAIL}}<br><strong>Sitio web:<\/strong> screenxrecorder.com<\/p>"
+        },
+        {
+            "title": "2. Objeto del sitio web",
+            "content": "<p>ScreenXRecorder es una herramienta online gratuita que permite a los usuarios grabar su pantalla, micrófono y cámara web directamente en el navegador, sin instalación ni registro. Se ofrece de forma gratuita como utilidad de acceso público para uso personal, educativo y profesional.<\/p>"
+        },
+        {
+            "title": "3. Propiedad intelectual e industrial",
+            "content": "<p>Todo el contenido de este sitio web — incluyendo, pero no limitado a, textos, gráficos, logotipos, iconos, imágenes y código fuente — es propiedad intelectual de Ismael Flores \/ iTechWare y está protegido por la legislación española e internacional sobre propiedad intelectual e industrial.<\/p><p>Queda estrictamente prohibida la reproducción, distribución, comunicación pública o transformación de estos contenidos sin la autorización expresa y por escrito del titular.<\/p>"
+        },
+        {
+            "title": "4. Exclusión de responsabilidad",
+            "content": "<p>El titular no garantiza la ausencia de errores en los contenidos ni su disponibilidad continua. El titular no será responsable de los daños derivados del uso de este sitio web o de sus contenidos.<\/p><p>La presencia de enlaces a sitios web de terceros no implica la aprobación de sus contenidos o políticas. El titular no tiene control sobre esos sitios externos.<\/p>"
+        },
+        {
+            "title": "5. Ley aplicable y jurisdicción",
+            "content": "<p>Este sitio web y sus contenidos se rigen por la legislación española. Para cualquier controversia derivada del uso de este sitio web, las partes se someten a la jurisdicción de los juzgados y tribunales de Madrid, España, con renuncia expresa a cualquier otro fuero que pudiera corresponderles.<\/p>"
+        }
+    ]
+}
